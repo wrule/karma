@@ -1,0 +1,14 @@
+{
+  "name": "karma",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "dev": "node dist/index.js",
+    "init": "tsc --init"
+  },
+  "repository": "https://github.com/wrule/karma.git",
+  "license": "MIT",
+  "private": false
+}
