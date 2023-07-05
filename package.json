@@ -5,8 +5,7 @@
   "scripts": {
     "build": "tsc",
     "watch": "tsc --watch",
-    "dev": "node dist/index.js",
-    "init": "tsc --init"
+    "dev": "node dist/index.js"
   },
   "repository": "https://github.com/wrule/karma.git",
   "license": "MIT",
